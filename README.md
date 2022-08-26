@@ -83,7 +83,7 @@ DNSC 6301 Bootcamp Project by Group 3
 
 
 #### Correlation Heatmap
-![Correlation Heatmap](![correlation-heatmap](https://user-images.githubusercontent.com/112208591/186992986-88f03b44-182f-41c7-91ae-b1065684d13b.png)
+![Correlation Heatmap](correlation-heatmap.png)
 )
 
 
