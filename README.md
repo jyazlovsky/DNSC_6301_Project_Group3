@@ -86,4 +86,7 @@ DNSC 6301 Bootcamp Project by Group 3
 ![Correlation Heatmap](correlation-heatmap.png)
 )
 
+#### Final Iteration Plot
+![Final Iteration Plot](final-iteration-plot.png)
+)
 
