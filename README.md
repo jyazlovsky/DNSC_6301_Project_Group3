@@ -92,5 +92,8 @@ From the heatmap, we can see that:
 * DELINQ_NEXT (whether or not someone missed their next payment) and LIMIT_BAL (amount of previously awarded credit) has a negative correlation, which means customers that did not miss their next payment were awarded more credit than customers that did miss their next payment.
 * A strong negative correlation was found between AGE and MARRIAGE (more older customers were found to be married than younger customers).
 
+
 #### Final Iteration Plot
 ![Final Iteration Plot](final-iteration-plot.png)
+
+The final iteration plot pictured above includes performance and fairness indicators. It shows that at Dep = 6 is where we see the best fairness and the best performance.
