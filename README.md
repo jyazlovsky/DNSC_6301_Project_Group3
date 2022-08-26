@@ -74,11 +74,8 @@ SOFTWARE.
 * **Column(s) used as target(s) in the final model**: 'DELINQ_NEXT'
 * **Type of model**: Decision Tree 
 * **Software used to implement the model**: Python, scikit-learn
-  *Training rows: 15,000
-  * Validation rows: 7,500
-
- * Python version: 3.7.13
- * sklearn version: 1.0.2
+  * Python version: 3.7.13
+  * sklearn version: 1.0.2
 * **Version of the modeling software**: 0.22.2.post1
 * **Hyperparameters or other settings of your model**: 
 ```
