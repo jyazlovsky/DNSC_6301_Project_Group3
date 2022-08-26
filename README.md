@@ -74,12 +74,10 @@ DNSC 6301 Bootcamp Project by Group 3
  
 ### Quantitative Analysis
 * **Metrics used to evaluate final model**: AUC and AIR
-| Training AUC | Validation AUC | Test AUC | Training AIR | Validation AIR | Test AIR |
-| ------------ | -------------- | -------- | ------------ | -------------- | -------- |
 
 | Training AUC |  Validation AUC | Test AUC | Training AIR | Validation AIR | Test AIR|
 | ------------ | --------------- | -------- | ------------ | -------------- | -------- |
-
+| 123 | 123 | 123 | 123 | 123 | 123 |
 
 * **Metrics used to evaluate final model**: AUC and AIR
 
