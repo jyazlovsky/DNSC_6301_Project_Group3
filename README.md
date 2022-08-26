@@ -77,8 +77,8 @@ DNSC 6301 Bootcamp Project by Group 3
 | Training AUC | Validation AUC | Test AUC | Training AIR | Validation AIR | Test AIR |
 | ------------ | -------------- | -------- | ------------ | -------------- | -------- |
 
-| Training AUC |  Validation AUC | Test AUC | Training AIR | Name | Validation AIR | Tes t AIR|
-| ---- | ------------- | ---------------- | ---------- | ---- | ------------- | ---------------- |
+| Training AUC |  Validation AUC | Test AUC | Training AIR | Validation AIR | Test AIR|
+| ------------ | --------------- | -------- | ------------ | -------------- | -------- |
 
 
 * **Metrics used to evaluate final model**: AUC and AIR
