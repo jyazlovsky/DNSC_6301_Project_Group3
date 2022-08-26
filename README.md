@@ -79,10 +79,11 @@ DNSC 6301 Bootcamp Project by Group 3
 | ------------ | --------------- | -------- | ------------ | -------------- | -------- |
 | 123 | 123 | 123 | 123 | 123 | 123 |
 
-* **Metrics used to evaluate final model**: AUC and AIR
+
 
 
 #### Correlation Heatmap
-![Correlation Heatmap](download.png)
+![Correlation Heatmap](![correlation-heatmap](https://user-images.githubusercontent.com/112208591/186992986-88f03b44-182f-41c7-91ae-b1065684d13b.png)
+)
 
 
