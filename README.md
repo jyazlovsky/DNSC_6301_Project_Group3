@@ -77,12 +77,11 @@ DNSC 6301 Bootcamp Project by Group 3
 | Training AUC | Validation AUC | Test AUC | Training AIR | Validation AIR | Test AIR |
 | ------------ | -------------- | -------- | ------------ | -------------- | -------- |
 
+| Training AUC |  Validation AUC | Test AUC | Training AIR | Name | Validation AIR | Tes t AIR|
+| ---- | ------------- | ---------------- | ---------- | ---- | ------------- | ---------------- |
 
 
-* Data dictionary: 
-
-| Name | Modeling Role | Measurement Level| Description| Name | Modeling Role | Measurement Level| Description|
-| ---- | ------------- | ---------------- | ---------- | ---- | ------------- | ---------------- | ---------- |
+* **Metrics used to evaluate final model**: AUC and AIR
 
 
 #### Correlation Heatmap
