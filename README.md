@@ -81,8 +81,8 @@ DNSC 6301 Bootcamp Project by Group 3
 
 * Data dictionary: 
 
-| Name | Modeling Role | Measurement Level| Description|
-| ---- | ------------- | ---------------- | ---------- |
+| Name | Modeling Role | Measurement Level| Description| Name | Modeling Role | Measurement Level| Description|
+| ---- | ------------- | ---------------- | ---------- | ---- | ------------- | ---------------- | ---------- |
 
 
 #### Correlation Heatmap
