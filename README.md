@@ -84,6 +84,7 @@ DNSC 6301 Bootcamp Project by Group 3
 
 #### Correlation Heatmap
 ![Correlation Heatmap](correlation-heatmap.png)
+
 From the heatmap, we can see that:
 * History of past payments (PAY_0, PAY_2 - PAY_6) has a strong negative correlation with the amount of previously awarded credit (LIMIT_BAL). This means the longer the customer was delayed in making their payment, the less credit they were awarded previously.
 * RACE and DELINQ_NEXT (whether or not someone missed their next payment) have a strong negative correlation; meaning, in this data set hispanic and black customers were found to miss their next payment more than white or asian customers.
