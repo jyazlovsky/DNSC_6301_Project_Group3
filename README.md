@@ -9,7 +9,7 @@ DNSC 6301 Bootcamp Project by Group 3
 * **Model date**: August 26, 2022
 * **Model version**: 1.0
 * **License**: MIT
-* **Model implementation code**: [Bootcamp Project - Group 3 Yazlovsky.ipynb](Bootcamp Project - Group 3 Yazlovsky.ipynb)
+* **Model implementation code**: [Bootcamp Project - Group 3 Yazlovsky.ipynb](Bootcamp_Project_Group_3_Yazlovsky.ipynb)
 
 ### Intended Use
 * **Primary intended uses**: This model is an *example* probability of default classifier, with an *example* use case for determining eligibility for a credit line increase.
