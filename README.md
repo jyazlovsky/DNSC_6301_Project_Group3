@@ -86,11 +86,11 @@ DNSC 6301 Bootcamp Project by Group 3
 ![Correlation Heatmap](correlation-heatmap.png)
 
 From the heatmap, we can see that:
-* History of past payments (PAY_0, PAY_2 - PAY_6) has a strong negative correlation with the amount of previously awarded credit (LIMIT_BAL). This means the longer the customer was delayed in making their payment, the less credit they were awarded previously.
-* RACE and DELINQ_NEXT (whether or not someone missed their next payment) have a strong negative correlation; meaning, in this data set hispanic and black customers were found to miss their next payment more than white or asian customers.
-* EDUCATION has a strong negative correlation with LIMIT_BAL (amount of previously awarded credit). This means the more educated consumers were, the more credit they were awarded.
+* History of past payments (PAY_0, PAY_2 - PAY_6) has a negative correlation with the amount of previously awarded credit (LIMIT_BAL). This means the longer the customer was delayed in making their payment, the less credit they were awarded previously.
+* RACE and DELINQ_NEXT (whether or not someone missed their next payment) have a negative correlation; meaning, in this data set hispanic and black customers were found to miss their next payment more than white or asian customers.
+* EDUCATION has a negative correlation with LIMIT_BAL (amount of previously awarded credit). This means the more educated consumers were, the more credit they were awarded.
 * DELINQ_NEXT (whether or not someone missed their next payment) and LIMIT_BAL (amount of previously awarded credit) has a negative correlation, which means customers that did not miss their next payment were awarded more credit than customers that did miss their next payment.
-* A strong negative correlation was found between AGE and MARRIAGE (more older customers were found to be married than younger customers).
+* A negative correlation was found between AGE and MARRIAGE (more older customers were found to be married than younger customers).
 
 
 #### Final Iteration Plot
