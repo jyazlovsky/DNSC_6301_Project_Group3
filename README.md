@@ -87,15 +87,27 @@ DNSC 6301 Bootcamp Project by Group 3
 
 From the heatmap, we can see that:
 * History of past payments (PAY_0, PAY_2 - PAY_6) has a negative correlation with the amount of previously awarded credit (LIMIT_BAL). This means the longer the customer was delayed in making their payment, the less credit they were awarded previously.
-* RACE and DELINQ_NEXT (whether or not someone missed their next payment) have a negative correlation; meaning, in this data set hispanic and black customers were found to miss their next payment more than white or asian customers.
+* RACE and DELINQ_NEXT (whether or not someone missed their next payment) have a negative correlation; meaning, in this data set Hispanic and black customers were found to miss their next payment more than white or Asian customers.
 * EDUCATION has a negative correlation with LIMIT_BAL (amount of previously awarded credit). This means the more educated consumers were, the more credit they were awarded.
-* DELINQ_NEXT (whether or not someone missed their next payment) and LIMIT_BAL (amount of previously awarded credit) has a negative correlation, which means customers that did not miss their next payment were awarded more credit than customers that did miss their next payment.
+* DELINQ_NEXT (whether or not someone missed their next payment) and LIMIT_BAL (amount of previously awarded credit) have a negative correlation, which means customers that did not miss their next payment were awarded more credit than customers that did miss their next payment.
 * A negative correlation was found between AGE and MARRIAGE (more older customers were found to be married than younger customers).
+
 
 #### Decision Tree Plot
 ![Decision Tree](decision-tree.png)
+
+A decision tree with a depth of 6 is pictured above. The gini splitting criterion was used to determine which feature was split and how it was split. 
+
+#### Variable Importance
+![Variable Importance](variable-importance.png)
+PAY_AMT5 (amount paid in May, 2005) was the most used variable 
 
 #### Final Iteration Plot
 ![Final Iteration Plot](final-iteration-plot.png)
 
 The final iteration plot pictured above includes performance and fairness indicators. It shows that at Dep = 6 is where we see the best fairness and the best performance.
+
+### Ethical Considerations
+* **Potential negative impacts of using this model**: This model has the potential chance to have encoded different types of biases (i.e. historical, societal, and/or institutional bias). Bias originates from training data as sociological biases could have been present in data collection, labeling, or storage processes. In an effort to avoid creating a biased model, the output of the model was built to be independent of the demographics of the user.
+* **Potential uncertainties of this model**: The statistical significance of the input variables was not calculated. Statistical significance allows us to determine if the relationship between variables was caused by something other than chance.
+* **Unexpected Results**: Although demographic inputs were removed, unintentional discrimination (disparate impact) was still found against Hispanic and Black customers in the model.
