@@ -100,7 +100,7 @@ A decision tree with a depth of 6 is pictured above. The gini splitting criterio
 
 #### Variable Importance
 ![Variable Importance](variable-importance.png)
-PAY_AMT5 (amount paid in May, 2005) was the most used variable 
+PAY_AMT5 (amount paid in May, 2005) was the most used variable in the decision tree plot which could result in thinking that is has a higher importance
 
 #### Final Iteration Plot
 ![Final Iteration Plot](final-iteration-plot.png)
