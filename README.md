@@ -1,7 +1,7 @@
 # DNSC_6301_Project_Group3
 DNSC 6301 Bootcamp Project by Group 3
 
-# Credit Line Increase Model Card
+## Credit Line Increase Model Card
 
 ### Basic Information
 
@@ -92,6 +92,8 @@ From the heatmap, we can see that:
 * DELINQ_NEXT (whether or not someone missed their next payment) and LIMIT_BAL (amount of previously awarded credit) has a negative correlation, which means customers that did not miss their next payment were awarded more credit than customers that did miss their next payment.
 * A negative correlation was found between AGE and MARRIAGE (more older customers were found to be married than younger customers).
 
+#### Decision Tree Plot
+![Decision Tree](decision-tree.png)
 
 #### Final Iteration Plot
 ![Final Iteration Plot](final-iteration-plot.png)
