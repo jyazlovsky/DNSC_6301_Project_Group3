@@ -106,7 +106,7 @@ PAY_AMT5 (amount paid in May, 2005) was the most used variable in the decision t
 #### Final Iteration Plot
 ![Final Iteration Plot](final-iteration-plot.png)
 
-The final iteration plot pictured above includes performance and fairness indicators. It shows that at Dep = 6 is where we see the best fairness and the best performance.
+The final iteration plot pictured above includes performance and fairness indicators and shows the new test error. The best fairness and performance is seen at Dep = 6.
 
 ### Ethical Considerations
 * **Potential negative impacts of using this model**: This model has the potential chance to have encoded different types of biases (i.e. historical, societal, and/or institutional bias). Bias originates from training data as sociological biases could have been present in data collection, labeling, or storage processes. In an effort to avoid creating a biased model, the output of the model was built to be independent of the demographics of the user.
