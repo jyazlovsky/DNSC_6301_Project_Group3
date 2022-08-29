@@ -6,7 +6,7 @@ DNSC 6301 Bootcamp Project by Group 3
 ### Basic Information
 
 * **Person or organization developing model**: Jenny Yazlovsky, `jyazlovsky@gwu.edu`
-* **Model date**: August 26, 2022
+* **Model date**: August, 2022
 * **Model version**: 1.0
 * **License**: MIT
 * **Model implementation code**: [Bootcamp Project - Group 3 Yazlovsky.ipynb](Bootcamp_Project_Group_3_Yazlovsky.ipynb)
