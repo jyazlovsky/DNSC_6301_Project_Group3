@@ -101,7 +101,7 @@ Above is a decision tree with a depth of 6. The gini splitting criterion was use
 #### Variable Importance
 ![Variable Importance](variable-importance.png)
 
-PAY_AMT5 (amount paid in May, 2005) was the most used variable in the decision tree plot which could result in thinking that it has higher importance; however, from the variable importance chart above, we can see that PAY_0 (the repayment status in September) has the highest importance. Even though PAY_0 was only used in the model once, it was used as the root node signifying that it represents the entire population being analyzed.
+PAY_AMT5 (amount paid in May, 2005) was the most used variable in the decision tree plot, which could result in thinking that it has higher importance; however, from the variable importance chart above, we can see that PAY_0 (the repayment status in September) has the highest importance. Even though PAY_0 was only used in the model once, it was used as the root node signifying that it represents the entire population being analyzed.
 
 #### Final Iteration Plot
 ![Final Iteration Plot](final-iteration-plot.png)
